@@ -242,7 +242,7 @@ Issues and pull requests are welcome. If you have ideas for new signals or secur
 
 ## 📄 License
 
-Add your preferred license here (for example, MIT).
+GNU GPLv3 (General Public License v3)
 
 <div align="center">
 
